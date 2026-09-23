@@ -1,0 +1,34 @@
+Carpeta = /
+Carpeta raíz = /raiz
+
+
+
+Comandos:
+
+git init {inicia localmente una instancia de git}
+ 
+git branch -M main {branch=rama} {-M=renombrar rama Master por main (master and main)} {main=principal}
+
+git add . {añade todos los archivos al repositorio}
+
+REPOSITORIO NUEVO ------> Enlace y Subir
+
+git commit -m "first commit" {Sirve para nombrar la versión de subida}
+
+git push {subir los cambios}
+
+git pull {baja los cambios}
+
+git status {comprueba si hay cambios o el estado de los archivos}
+
+
+
+CONFIGURACION DEL USUARIO LOCAL GIT
+
+git config --local user.name "nombre"
+
+git config --local user.email "correo de github"
+
+(Recordar abrir "Administrador de credenciales" seleccionar "Credenciales de Windows")
+(Eliminar cualquier credencial relacionada con git o github)
+
