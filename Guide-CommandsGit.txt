@@ -5,9 +5,9 @@ Carpeta raíz = /raiz
 
 Comandos:
 
-git init {inicia localmente una instancia de git}
+git init {inicia localmente una instancia de git}. (Repositorios Nuevos)
  
-git branch -M main {branch=rama} {-M=renombrar rama Master por main (master and main)} {main=principal}
+git branch -M main {branch=rama} {-M=renombrar rama Master por main (master and main)} {main=principal} (Repositorios Nuevos)
 
 git add . {añade todos los archivos al repositorio}
 
@@ -25,12 +25,14 @@ git status {comprueba si hay cambios o el estado de los archivos}
 
 CONFIGURACION DEL USUARIO LOCAL GIT
 
-git config --local user.name "nombre"
+git config --local user.name "nombre" (Repositorios Nuevos)
 
 git config --local user.email "correo de github"
 
 (Recordar abrir "Administrador de credenciales" seleccionar "Credenciales de Windows")
 (Eliminar cualquier credencial relacionada con git o github)
+
+git clone + URL (Clona o recupera repositorios en cualquier lugar o equipo de computo donde lo clone9
 
 …
 
