@@ -32,7 +32,7 @@ git config --local user.email "correo de github"
 (Recordar abrir "Administrador de credenciales" seleccionar "Credenciales de Windows")
 (Eliminar cualquier credencial relacionada con git o github)
 
-git clone + URL (Clona o recupera repositorios en cualquier lugar o equipo de computo donde lo clone9
+git clone + URL (Clona o recupera repositorios en cualquier lugar o equipo de computo donde lo clone)
 
 …
 
