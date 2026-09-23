@@ -32,3 +32,5 @@ git config --local user.email "correo de github"
 (Recordar abrir "Administrador de credenciales" seleccionar "Credenciales de Windows")
 (Eliminar cualquier credencial relacionada con git o github)
 
+…
+
